@@ -1,16 +1,34 @@
-# React + Vite
+# 🌆 CivicPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> **Empowering communities through heartfelt storytelling, constitutional awareness, and holistic mind-body well-being.**
 
-Currently, two official plugins are available:
+CivicPulse is a modern, 21st-century web platform designed to educate and inspire individuals—especially young minds—on fundamental civic responsibilities, constitutional rights (such as Articles 14 and 21A), and sustainable physical and mental wellness. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 **Live Demo:** [https://priyayadav1717.github.io/civicpulse/](https://priyayadav1717.github.io/civicpulse/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Key Features
 
-## Expanding the Oxlint configuration
+- **📖 Heartfelt Stories:** Engaging narrative-driven modules that make learning about constitutional rights and personal growth feel personal and memorable.
+- **⚖️ Constitutional Awareness:** Simplifying essential legal rights (like equality before the law and the right to education) for everyday citizens.
+- **🧘 Mind & Body Fitness:** Promoting natural flexibility, active mobility, and mental stillness without forced routines.
+- **🎨 Modern Dynamic UI:** Built with unique styling per story theme to deliver an immersive reading and learning experience.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, Vite, JavaScript (ES6+)
+- **Styling:** Custom CSS Design System, Tailwind CSS
+- **Deployment:** GitHub Pages (`gh-pages`)
+
+---
+
+## 🚀 Getting Started Locally
+
+If you'd like to run or contribute to CivicPulse locally on your machine, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/priyayadav1717/civicpulse.git](https://github.com/priyayadav1717/civicpulse.git)
